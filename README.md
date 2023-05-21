@@ -1,10 +1,23 @@
 <h1 align="center">Hi 👋, I'm nutus_sar</h1>
-<h3 align="center">I am a Student, still learning devolper skills.</h3>
-
-- 🔭 I’m currently working on **Notenverwaltung**
+<h2 align="center">I'm a 21 year old developer.</h3>
+<section>
+<h3 align="center">About Me</h3>
+  I am a young developer who is intreseted in a variety of IT-Topics.
+  My intrest for IT grew as a kid seeing robots being automated and working all on their own.
+  In School i started to programm with Python aswell Java -> programmed my first Classtestautomation and serveral other Programms (Reverse Shell, Discordbott, ...)
+  Around that time my interest for IT-Security and Pentesting grew which lead to setting up Kali Linux trying out sveral tools such as (Aricrack, BeEF, ...).
+  After i graduated i went to University for four semesters in which i learned about Assembler, MySql, Scala 3 but i dropped out. Being introverted sucks.
+  
+  At the moment i am learning about JUnit, Selenium and Networkarchitecture.
+  
+  <p> My Goal ?</p>
+  I am seeing forward to learn more about AI, especially development with Karas and TensorFlow aswell getting back to IT-Security, Reverse-Engineering.
+  Another Goal would be creating new Contacts who could help and teach me new IT-Topics on my journey (The other way around aswell).   
+</section>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  Discord: !Saturnus Skayn!#5637
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
