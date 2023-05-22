@@ -3,8 +3,7 @@
 <section>
 <h3 align="center">About Me</h3>
 I am a young developer who is interested in a variety of IT topics. My interest in IT grew as a kid from seeing robots being automated and working all on their own. In school, I started to program with Python and Java, and programmed my first class test automation and several other programs (Reverse Shell, Discord bot, ...). Around that time, my interest in IT security and pentesting grew, which led me to set up Kali Linux and try out several tools such as Aircrack and BeEF. After I graduated, I went to university for four semesters, during which I learned about Assembler, MySQL, and Scala 3, but I dropped out. Being introverted sucks. At the moment, I am learning about JUnit, Selenium, and network architecture.
-  
-  At the moment i am learning about JUnit, Selenium and Networkarchitecture.
+
   
   <p> My Goal ?</p>
   I am seeing forward to learn more about AI, especially development with Karas and TensorFlow aswell getting back to IT-Security, Reverse-Engineering.
