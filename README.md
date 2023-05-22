@@ -8,8 +8,7 @@ I am a young developer who is interested in a variety of IT topics. My interest 
 
   
   <p> My Goal ?</p>
-  I am seeing forward to learn more about AI, especially development with Karas and TensorFlow aswell getting back to IT-Security, Reverse-Engineering.
-  Another Goal would be creating new Contacts who could help and teach me new IT-Topics on my journey (The other way around aswell).   
+My goal is to continue learning more about AI, with a particular interest in development using Keras and TensorFlow. Additionally, I want to get back into IT security and reverse-engineering. Another goal of mine is to create new connections who can help and teach me about new IT topics on my journey, and vice versa.
 </section>
 
 <h3 align="center">Connect with me:</h3>
