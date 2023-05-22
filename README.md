@@ -2,11 +2,7 @@
 <h2 align="center">I'm a 21 year old developer.</h3>
 <section>
 <h3 align="center">About Me</h3>
-  I am a young developer who is intreseted in a variety of IT-Topics.
-  My intrest for IT grew as a kid seeing robots being automated and working all on their own.
-  In school i started to programm with Python aswell Java -> programmed my first Classtestautomation and serveral other programms (Reverse Shell, Discordbot, ...).
-  Around that time my interest for IT-Security and Pentesting grew which lead to setting up Kali Linux trying out sveral tools such as (Aircrack, BeEF, ...).
-  After i graduated i went to University for four semesters in which i learned about Assembler, MySql, Scala 3 but i dropped out. Being introverted sucks.
+I am a young developer who is interested in a variety of IT topics. My interest in IT grew as a kid from seeing robots being automated and working all on their own. In school, I started to program with Python and Java, and programmed my first class test automation and several other programs (Reverse Shell, Discord bot, ...). Around that time, my interest in IT security and pentesting grew, which led me to set up Kali Linux and try out several tools such as Aircrack and BeEF. After I graduated, I went to university for four semesters, during which I learned about Assembler, MySQL, and Scala 3, but I dropped out. Being introverted sucks. At the moment, I am learning about JUnit, Selenium, and network architecture.
   
   At the moment i am learning about JUnit, Selenium and Networkarchitecture.
   
