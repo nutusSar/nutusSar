@@ -4,7 +4,7 @@
 <h3 align="center">About Me</h3>
   I am a young developer who is intreseted in a variety of IT-Topics.
   My intrest for IT grew as a kid seeing robots being automated and working all on their own.
-  In school i started to programm with Python aswell Java -> programmed my first Classtestautomation and serveral other programms (Reverse Shell, Discordbott, ...).
+  In school i started to programm with Python aswell Java -> programmed my first Classtestautomation and serveral other programms (Reverse Shell, Discordbot, ...).
   Around that time my interest for IT-Security and Pentesting grew which lead to setting up Kali Linux trying out sveral tools such as (Aricrack, BeEF, ...).
   After i graduated i went to University for four semesters in which i learned about Assembler, MySql, Scala 3 but i dropped out. Being introverted sucks.
   
