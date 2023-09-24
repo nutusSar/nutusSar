@@ -12,13 +12,9 @@ My goal is to continue learning more about AI, with a particular interest in dev
   Another goal of mine is to create new connections who can help and teach me about new IT topics on my journey, and vice versa.
 </section>
 
-<section>
+<section align="center">
   <h3>Currently Learning:</h3>
-  <ul>
-    <li>C++</li>
-    <li>Micro Controlling</li>
-    <li>Management Packets</li>
-  </ul>
+  <p>C++<br>Micro Controlling<br>Management Packets</p>
 </section>
 
 <h3 align="center">Connect with me:</h3>
