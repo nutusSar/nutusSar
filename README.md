@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm nutus_sar</h1>
-<h2 align="center">I'm a 21 year old developer.</h3>
+<h2 align="center">I'm a 22 year old developer.</h3>
 <section>
 <h3 align="center">About Me</h3>
 
@@ -12,9 +12,18 @@ My goal is to continue learning more about AI, with a particular interest in dev
   Another goal of mine is to create new connections who can help and teach me about new IT topics on my journey, and vice versa.
 </section>
 
+<section>
+  <h3>Currently Learning:</h3>
+  <ul>
+    <li>C++</li>
+    <li>Micro Controlling</li>
+    <li>Management Packets</li>
+  </ul>
+</section>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  Discord: !Saturnus Skayn!#5637
+  Discord: nutus_sar
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
