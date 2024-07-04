@@ -23,6 +23,6 @@ My goal is to continue learning more about AI, with a particular interest in dev
 </p>
 
 <h2 align="center"> Languages and Tools</h2>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nutusSar&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nutusSar&layout=compact)](https://github.com/yourusername/github-readme-stats)
 
 
