@@ -1,4 +1,5 @@
 # HelloWorld nutusSar = new HellowWorld('nutusSar');
+![](https://komarev.com/ghpvc/?username=nutusSar)
 ## About Me
 - 👨‍💻 22-year-old developer passionate about various topics in technology.
 - 💡 Interested in both frontend and backend development, networking, AI, and security.
