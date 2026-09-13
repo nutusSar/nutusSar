@@ -1,7 +1,7 @@
 # HelloWorld nutusSar = new HellowWorld('nutusSar');
 ![](https://komarev.com/ghpvc/?username=nutusSar)
 ## About Me
-- 👨‍💻 23-year-old developer passionate about various topics in technology.
+- 👨‍💻 25-year-old developer passionate about various topics in technology.
 - 💡 Interested in both frontend and backend development, networking, AI, and security.
 - 🌐 Discord: nutus_sar
 - 🌟 What drives me: I am constantly curious, always seeking to uncover how things work and striving to create my own world through understanding and innovation.
